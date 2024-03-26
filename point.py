@@ -1,4 +1,3 @@
-# Testing
 from sqlalchemy import Column, Integer
 from base import Base
 
